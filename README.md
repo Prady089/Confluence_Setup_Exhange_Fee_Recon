@@ -16,7 +16,7 @@ Previously unreconciled fees led to operational risks, unreported breaks, audit 
 ## How the Confluence Page Was Structured
 I built this page following best practices for BA-led project documentation in Confluence:
 
-- **Clear, scannable layout** using headings (H1–H4), emojis (🎯, 📦, 👥, etc.) for visual hierarchy, and short read-time estimate (2 min).
+- **Clear, scannable layout** using headings (H1–H4) and short read-time estimate (2 min).
 - **Status macros** for quick project health indicators.
 - **Tables** for scope (In/Out), stakeholders, and timeline.
 - **Two-column layout macro** for high-level architecture diagram (Inputs → Engine → Outputs).
